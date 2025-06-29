@@ -2,12 +2,12 @@
 body {
     font-family: 'Georgia', serif;
     margin: 0;
-    background-color: #fdfcf9;
-    color: #2f2f2f;
+    background-color: #F3E9E6;
+    color: #2F2F2F;
 }
 header {
-    background-color: #f1ede5;
-    border-bottom: 1px solid #d1c7b7;
+    background-color: #FAF6F3;
+    border-bottom: 1px solid #D8CFC9;
     position: sticky;
     top: 0;
     z-index: 1000;
@@ -18,18 +18,18 @@ header {
     justify-content: center;
     margin: 0;
     padding: 1rem 0;
-    background-color: #f1ede5;
+    background-color: #FAF6F3;
 }
 .navbar li {
     margin: 0 1rem;
 }
 .navbar a {
     text-decoration: none;
-    color: #4a3a2d;
+    color: #2F2F2F;
     font-weight: bold;
 }
 .navbar a:hover {
-    color: #861f41;
+    color: #B3706D;
 }
 .content {
     padding: 4rem 2rem;
